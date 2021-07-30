@@ -37,8 +37,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
-     inkscape:cx="345.99606"
-     inkscape:cy="297.9646"
+     inkscape:cx="302.84773"
+     inkscape:cy="337.42987"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="true"
@@ -88,6 +88,16 @@
      transform="translate(-386.84531,262.38808)"
      style="display:inline"
      sodipodi:insensitive="true">
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 926.8453,-202.38808 h 60 v 60"
+       id="path5292"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 426.84531,-22.38808 v 60 h 60"
+       id="path5290"
+       inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 436.84529,-192.38808 49.99999,49.99999"
@@ -1791,7 +1801,7 @@
        d="m 648.99962,240.00002 -9.9999,17.32033 h -19.9998 l -9.9999,-17.32033 9.9999,-17.32034 h 19.9998 z"
        inkscape:label="#path285-7-0">
       <title
-         id="title1623-7-6-3-17">Terminal B</title>
+         id="title1623-7-6-3-17">Terminal D</title>
     </path>
     <path
        sodipodi:type="star"
@@ -1846,6 +1856,44 @@
       <title
          id="title514-3-1">Waveguide 2</title>
     </rect>
+    <path
+       sodipodi:type="star"
+       style="display:inline;fill:#cccccc;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+       id="Territory_31"
+       sodipodi:sides="6"
+       sodipodi:cx="629.00018"
+       sodipodi:cy="1.3698535e-05"
+       sodipodi:r1="19.9998"
+       sodipodi:r2="17.320333"
+       sodipodi:arg1="0"
+       sodipodi:arg2="0.52359878"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 648.99998,1.3698535e-5 639.00008,17.320348 l -19.9998,0 L 609.00038,1.3698535e-5 619.00028,-17.320321 l 19.9998,0 z"
+       inkscape:label="#path285-7-0">
+      <title
+         id="title1623-7-6-3-17-6">Terminal C</title>
+    </path>
+    <path
+       sodipodi:type="star"
+       style="display:inline;fill:#cccccc;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+       id="Territory_32"
+       sodipodi:sides="6"
+       sodipodi:cx="69.000198"
+       sodipodi:cy="240.00001"
+       sodipodi:r1="19.9998"
+       sodipodi:r2="17.320333"
+       sodipodi:arg1="0"
+       sodipodi:arg2="0.52359878"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 88.999998,240.00001 -9.9999,17.32034 H 59.000299 l -9.9999,-17.32034 9.9999,-17.32033 h 19.999799 z"
+       inkscape:label="#path285-7-0">
+      <title
+         id="title1623-7-6-3-17-6-5">Terminal B</title>
+    </path>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1855,7 +1903,7 @@
      transform="translate(-29,59.99999)"
      sodipodi:insensitive="true">
     <rect
-       style="display:inline;fill:#ffaaaa;stroke:#ffff00;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98500001"
+       style="display:inline;fill:#ffcccb;fill-opacity:1;stroke:#ffff00;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98500001"
        id="BonusLink_TerminalA"
        width="20"
        height="20"
@@ -1866,12 +1914,12 @@
          id="title522">Roundabout 01</title>
     </rect>
     <rect
-       style="display:inline;fill:#ffd5d5;fill-opacity:1;stroke:#ffff00;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98500001"
-       id="BonusLink_TerminalB"
+       style="display:inline;fill:#fe6862;fill-opacity:1;stroke:#ffff00;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98500001"
+       id="BonusLink_TerminalD"
        width="20"
        height="20"
        x="639"
-       y="200.00002"
+       y="260"
        inkscape:label="#rect16236-3-0-1" />
     <path
        style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#00ffff;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -2404,6 +2452,22 @@
        d="m 308.49059,306.33834 a 7.5,7.5 0 0 1 -2.32927,-10.34723 7.5,7.5 0 0 1 10.34704,-2.33012 7.5,7.5 0 0 1 2.33098,10.34685 7.5,7.5 0 0 1 -10.34665,2.33183"
        inkscape:label="#path4503"
        transform="translate(29,-59.99999)" />
+    <rect
+       style="display:inline;opacity:0.92000002;fill:#fca5af;fill-opacity:1;stroke:#ffff00;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98500001"
+       id="BonusLink_TerminalB"
+       width="20"
+       height="20"
+       x="39"
+       y="260"
+       inkscape:label="#rect16236-3-0-1" />
+    <rect
+       style="display:inline;opacity:0.92000002;fill:#f58696;fill-opacity:1;stroke:#ffff00;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98500001"
+       id="BonusLink_TerminalC"
+       width="20"
+       height="20"
+       x="639"
+       y="-39.999996"
+       inkscape:label="#rect16236-3-0-1" />
   </g>
   <g
      inkscape:groupmode="layer"
