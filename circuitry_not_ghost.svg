@@ -37,10 +37,10 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="2"
-     inkscape:cx="-7.3578125"
+     inkscape:cx="424.25693"
      inkscape:cy="169.422"
      inkscape:document-units="px"
-     inkscape:current-layer="layer7"
+     inkscape:current-layer="layer4"
      showgrid="true"
      units="px"
      showguides="true"
@@ -77,7 +77,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -4247,22 +4247,6 @@
          id="path7516"
          inkscape:connector-curvature="0" />
     </g>
-    <g
-       aria-label="VI"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
-       id="text6582-1-7-8"
-       transform="translate(-2,4)">
-      <path
-         d="m 637.61452,263.58851 -1.22916,0.22917 -4.78125,13.51041 h -1.625 l -4.88542,-13.53125 -1.26042,-0.20833 v -0.91667 h 5.10417 v 0.91667 l -1.26042,0.10417 q -0.0937,0.0104 -0.14583,0.11458 -0.0521,0.10417 -0.0521,0.19792 0,0.0521 0.0104,0.0729 l 3.75,10.54167 3.60417,-10.5 q 0.0104,-0.0208 0.0104,-0.0729 0,-0.11458 -0.0937,-0.22916 -0.0937,-0.11459 -0.20834,-0.125 l -1.17708,-0.10417 v -0.91667 h 4.23958 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
-         id="path7474"
-         inkscape:connector-curvature="0" />
-      <path
-         d="m 644.16661,276.98434 h -5.625 v -0.91666 l 1.27083,-0.0833 q 0.22917,-0.0208 0.33333,-0.16666 0.11459,-0.14584 0.11459,-0.30209 v -11.375 q 0,-0.15625 -0.11459,-0.29166 -0.10416,-0.14584 -0.33333,-0.15625 l -1.27083,-0.0833 v -0.9375 h 5.625 v 0.9375 l -1.30209,0.0833 q -0.21875,0.0104 -0.33333,0.15625 -0.11458,0.13541 -0.11458,0.29166 v 11.375 q 0,0.15625 0.11458,0.30209 0.11458,0.14583 0.33333,0.16666 l 1.30209,0.0833 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
-         id="path7476"
-         inkscape:connector-curvature="0" />
-    </g>
     <path
        style="display:inline;fill:none;stroke:#00ff00;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
        d="m 284.00003,220.00002 h -20"
@@ -4333,6 +4317,21 @@
          d="m 210.50713,149.89909 3.37239,4.96094 h -2.61068 l -2.27213,-3.32031 -2.25261,3.32031 h -2.62369 l 3.37239,-4.96094 -3.24218,-4.75911 h 2.61718 l 2.12891,3.13151 2.12239,-3.13151 h 2.63021 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
          id="path7453"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       aria-label="IV"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="text5482">
+      <path
+         d="m 627.46346,280.98434 h -5.625 v -0.91666 l 1.27083,-0.0833 q 0.22917,-0.0208 0.33334,-0.16666 0.11458,-0.14584 0.11458,-0.30209 v -11.375 q 0,-0.15625 -0.11458,-0.29166 -0.10417,-0.14584 -0.33334,-0.15625 l -1.27083,-0.0833 v -0.9375 h 5.625 v 0.9375 l -1.30208,0.0833 q -0.21875,0.0104 -0.33334,0.15625 -0.11458,0.13541 -0.11458,0.29166 v 11.375 q 0,0.15625 0.11458,0.30209 0.11459,0.14583 0.33334,0.16666 l 1.30208,0.0833 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';fill:#ffffff"
+         id="path5484"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 642.16138,267.58851 -1.22917,0.22917 -4.78125,13.51041 h -1.625 l -4.88542,-13.53125 -1.26041,-0.20833 v -0.91667 h 5.10416 v 0.91667 l -1.26041,0.10417 q -0.0937,0.0104 -0.14584,0.11458 -0.0521,0.10417 -0.0521,0.19792 0,0.0521 0.0104,0.0729 l 3.75,10.54167 3.60416,-10.5 q 0.0104,-0.0208 0.0104,-0.0729 0,-0.11458 -0.0937,-0.22916 -0.0937,-0.11459 -0.20833,-0.125 l -1.17709,-0.10417 v -0.91667 h 4.23959 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL';fill:#ffffff"
+         id="path5486"
          inkscape:connector-curvature="0" />
     </g>
   </g>
