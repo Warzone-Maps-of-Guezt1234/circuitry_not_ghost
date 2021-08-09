@@ -3,7 +3,7 @@ All notable changes to the map will be documented here.
 
 ## v1.1
 
-### Aesthetic
+### Documentation
 - Use "X" instead of "bonus" to refer to a bonus with an unknown value.
 - Add a series examples to explain the bonus system.
 - Show the change of income in the series of examples.
